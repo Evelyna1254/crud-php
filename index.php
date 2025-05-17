@@ -20,7 +20,7 @@ $products = $stmt->fetchAll();
     </style>
 </head>
 <body class="container">
-    <h2>Bienvenido a la tienda</h2>
+    <h2>Salir a la tienda</h2>
     <a href="logout.php" class="btn btn-danger">Cerrar sesión</a>
     <a href="crud.php" class="btn btn-secondary">Gestionar Productos</a>
     <a href="cart.php" class="btn btn-primary">Ver Carrito</a>
